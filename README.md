@@ -2,7 +2,7 @@
 ゆっくりしていってもらえたら嬉しいです。
 
 - GitLab(仕事用):https://gitlab.com/u-Hoshi
-- 学習日記:https://www.notion.so/e3c4c7839f7d46d9aeb28ae7d19e26b4
+<!-- - 学習日記:https://www.notion.so/e3c4c7839f7d46d9aeb28ae7d19e26b4 -->
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=u-Hoshi)](https://github.com/anuraghazra/github-readme-stats)
