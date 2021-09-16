@@ -1,4 +1,4 @@
-# Hoshiのgithubにお越しくださってありがとうございます👋
+# I'm u-Hoshi👋
 
 - GitLab:https://gitlab.com/u-Hoshi
 <!-- - 学習日記:https://www.notion.so/e3c4c7839f7d46d9aeb28ae7d19e26b4 -->
