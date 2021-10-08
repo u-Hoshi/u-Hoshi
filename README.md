@@ -1,4 +1,18 @@
-# I'm u-Hoshi👋
+<!-- # I'm u-Hoshi👋 -->
+
+
+   
+<p align="left"> 
+  <a href="https://github.com/unsolublesugar/u-Hoshi/">
+    <img src="https://komarev.com/ghpvc/?username=u-Hoshi" alt="u-Hoshi" />
+  </a>
+  <a href="http://twitter.com/CertainEngineer">
+    <img height="20" src="https://img.shields.io/twitter/follow/CertainEngineer?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="http://qiita.com/ToaruEngineer">
+    <img height="20" src="https://qiita-badge.apiapi.app/s/ToaruEngineer/posts.svg" />
+  </a>
+</p>
 
 - GitLab:https://gitlab.com/u-Hoshi
 <!-- - 学習日記:https://www.notion.so/e3c4c7839f7d46d9aeb28ae7d19e26b4 -->
