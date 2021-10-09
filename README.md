@@ -15,7 +15,6 @@
 </p>
 
 - GitLab:https://gitlab.com/u-Hoshi
-<!-- - 学習日記:https://www.notion.so/e3c4c7839f7d46d9aeb28ae7d19e26b4 -->
 
 以前のインターン先ではフロントエンドの実装及びそれに関する要件定義を行なっていました。その前は1年間ほどtoC向けの営業活動をしていた時期もあります。
 
@@ -23,19 +22,17 @@
 
 細く長く続けることが得意です。
 
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=u-Hoshi&theme=github) -->
+<!--  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=u-Hoshi&theme=github) -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=u-Hoshi)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u-Hoshi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## 参加イベント
+- [技育展 2021](https://talent.supporterz.jp/geekten/2021/) 【登壇】
 
+- [エンジニア達の「〇〇完全に理解した」](https://easy2.connpass.com/event/226964/) 【LT登壇】
 
+- [【オンライン開発合宿vol.10】オンラインのチーム開発を促進するアプリケーション](https://talent.supporterz.jp/events/c69cd6bd-bb32-4c29-9fca-9b6e09f15ebb/?utm_source=next&utm_medium=geekcamp) 【参加】
 
-
-
-
-<!-- <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
- -->
 
 <!--
 **u-Hoshi/u-Hoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
