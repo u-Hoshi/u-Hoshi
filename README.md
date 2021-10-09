@@ -13,9 +13,6 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/ToaruEngineer/posts.svg" />
   </a>
 </p>
- 
-<!-- ![file_type_gitlab_icon_130579 (1)](https://user-images.githubusercontent.com/56116874/136649097-3505a611-d38c-4663-a602-13e9c664f55a.png) -->
- <img height="22" src="https://user-images.githubusercontent.com/56116874/136649097-3505a611-d38c-4663-a602-13e9c664f55a.png" />https://gitlab.com/u-Hoshi
 
 
 |profile |   data  |   
