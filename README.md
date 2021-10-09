@@ -3,9 +3,9 @@
 
    
 <p align="left"> 
-  <a href="https://github.com/u-Hoshi/">
+<!--   <a href="https://github.com/u-Hoshi/">
     <img src="https://komarev.com/ghpvc/?username=u-Hoshi" alt="u-Hoshi" />
-  </a>
+  </a> -->
   <a href="http://twitter.com/CertainEngineer">
     <img height="20" src="https://img.shields.io/twitter/follow/CertainEngineer?label=Twitter&logo=twitter&style=flat" />
   </a>
