@@ -35,13 +35,17 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=u-Hoshi&theme=monokai)
 
 
-## Participation event
+## Event
 【ピッチコンテスト登壇】[技育展 2021](https://talent.supporterz.jp/geekten/2021/)
 
 【LT会登壇】[エンジニア達の「〇〇完全に理解した」Talk　#22](https://easy2.connpass.com/event/226964/)
 
 【ハッカソン参加】[【オンライン開発合宿vol.10】オンラインのチーム開発を促進するアプリケーション](https://talent.supporterz.jp/events/c69cd6bd-bb32-4c29-9fca-9b6e09f15ebb/?utm_source=next&utm_medium=geekcamp)
 
+
+## Recent posts
+- 10/3 [stateの管理をReactからReduxに書き換える](https://qiita.com/ToaruEngineer/items/80262c76fcc4367d5b41)
+- 9/28 [FastAPIの環境構築](https://qiita.com/ToaruEngineer/items/cd59130df88ef24a3187)
 
 <!--
 **u-Hoshi/u-Hoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
