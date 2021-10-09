@@ -27,11 +27,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u-Hoshi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 参加イベント
-- [技育展 2021](https://talent.supporterz.jp/geekten/2021/) 【登壇】
+- [技育展 2021](https://talent.supporterz.jp/geekten/2021/)【登壇】
 
-- [エンジニア達の「〇〇完全に理解した」](https://easy2.connpass.com/event/226964/) 【LT登壇】
+- [エンジニア達の「〇〇完全に理解した」](https://easy2.connpass.com/event/226964/)【LT登壇】
 
-- [【オンライン開発合宿vol.10】オンラインのチーム開発を促進するアプリケーション](https://talent.supporterz.jp/events/c69cd6bd-bb32-4c29-9fca-9b6e09f15ebb/?utm_source=next&utm_medium=geekcamp) 【参加】
+- [【オンライン開発合宿vol.10】オンラインのチーム開発を促進するアプリケーション](https://talent.supporterz.jp/events/c69cd6bd-bb32-4c29-9fca-9b6e09f15ebb/?utm_source=next&utm_medium=geekcamp)【参加】
 
 
 <!--
