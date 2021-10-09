@@ -3,7 +3,7 @@
 
    
 <p align="left"> 
-  <a href="https://github.com/unsolublesugar/u-Hoshi/">
+  <a href="https://github.com/u-Hoshi/">
     <img src="https://komarev.com/ghpvc/?username=u-Hoshi" alt="u-Hoshi" />
   </a>
   <a href="http://twitter.com/CertainEngineer">
