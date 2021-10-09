@@ -38,7 +38,7 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=u-Hoshi&theme=monokai)
 
 
-## 参加イベント
+## Participation event
 【ピッチコンテスト登壇】[技育展 2021](https://talent.supporterz.jp/geekten/2021/)
 
 【LT会登壇】[エンジニア達の「〇〇完全に理解した」Talk　#22](https://easy2.connpass.com/event/226964/)
