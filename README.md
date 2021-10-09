@@ -1,4 +1,4 @@
-<!-- # I'm u-Hoshi👋 -->
+# I'm u-Hoshi👋
 
 
    
@@ -13,25 +13,37 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/ToaruEngineer/posts.svg" />
   </a>
 </p>
+ 
+<!-- ![file_type_gitlab_icon_130579 (1)](https://user-images.githubusercontent.com/56116874/136649097-3505a611-d38c-4663-a602-13e9c664f55a.png) -->
+ <img height="22" src="https://user-images.githubusercontent.com/56116874/136649097-3505a611-d38c-4663-a602-13e9c664f55a.png" />https://gitlab.com/u-Hoshi
 
-- GitLab:https://gitlab.com/u-Hoshi
 
-以前のインターン先ではフロントエンドの実装及びそれに関する要件定義を行なっていました。その前は1年間ほどtoC向けの営業活動をしていた時期もあります。
+|profile |   data  |   
+|---:|-------------|
+| Age  |   21         |
+|Job|student / developer|
+| City  |Chiba|      
+| OS | mac / windows|      
+| Hobby |run / anime|   
+| Keybord |HHKB|  
+| Mic | shure mv7 |
 
-現状はフロントエンドしか経験がないですが、今後はバックエンドの開発にも携わりたいので現在勉強中です。
 
-細く長く続けることが得意です。
 
-<!--  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=u-Hoshi&theme=github) -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=u-Hoshi)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=u-Hoshi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=u-Hoshi&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=u-Hoshi&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=u-Hoshi&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=u-Hoshi&theme=monokai)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=u-Hoshi&theme=monokai)
+
 
 ## 参加イベント
-- [技育展 2021](https://talent.supporterz.jp/geekten/2021/)【登壇】
+【ピッチコンテスト登壇】[技育展 2021](https://talent.supporterz.jp/geekten/2021/)
 
-- [エンジニア達の「〇〇完全に理解した」](https://easy2.connpass.com/event/226964/)【LT登壇】
+【LT会登壇】[エンジニア達の「〇〇完全に理解した」Talk　#22](https://easy2.connpass.com/event/226964/)
 
-- [【オンライン開発合宿vol.10】オンラインのチーム開発を促進するアプリケーション](https://talent.supporterz.jp/events/c69cd6bd-bb32-4c29-9fca-9b6e09f15ebb/?utm_source=next&utm_medium=geekcamp)【参加】
+【ハッカソン参加】[【オンライン開発合宿vol.10】オンラインのチーム開発を促進するアプリケーション](https://talent.supporterz.jp/events/c69cd6bd-bb32-4c29-9fca-9b6e09f15ebb/?utm_source=next&utm_medium=geekcamp)
 
 
 <!--
