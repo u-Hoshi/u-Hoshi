@@ -23,7 +23,7 @@
 | OS | mac / windows|      
 | Hobby |run / anime|   
 | Keybord |HHKB|  
-| Mic | shure mv7 |
+| Mic |SHURE MV7 |
 
 
 
@@ -44,8 +44,10 @@
 
 
 ## Recent posts
+- 10/10 [技育展を振り返って](https://portfolio-u-hoshi.vercel.app/blog/lr4ud5ejhv)
 - 10/3 [stateの管理をReactからReduxに書き換える](https://qiita.com/ToaruEngineer/items/80262c76fcc4367d5b41)
 - 9/28 [FastAPIの環境構築](https://qiita.com/ToaruEngineer/items/cd59130df88ef24a3187)
+- 9/20 [初の逆求人イベント](https://portfolio-u-hoshi.vercel.app/blog/qqnq6w9ta)
 
 <!--
 **u-Hoshi/u-Hoshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
