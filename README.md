@@ -38,9 +38,10 @@
 ## Event
 【ピッチコンテスト登壇】[技育展 2021](https://talent.supporterz.jp/geekten/2021/)
 
+【ハッカソン参加】[【オンライン開発合宿vol.10】オンラインのチーム開発を促進するアプリケーション](https://talent.supporterz.jp/events/c69cd6bd-bb32-4c29-9fca-9b6e09f15ebb/?utm_source=next&utm_medium=geekcamp)
+
 【LT会登壇】[エンジニア達の「〇〇完全に理解した」Talk　#22](https://easy2.connpass.com/event/226964/)
 
-【ハッカソン参加】[【オンライン開発合宿vol.10】オンラインのチーム開発を促進するアプリケーション](https://talent.supporterz.jp/events/c69cd6bd-bb32-4c29-9fca-9b6e09f15ebb/?utm_source=next&utm_medium=geekcamp)
 
 
 ## Recent posts
