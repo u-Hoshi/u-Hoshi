@@ -6,8 +6,8 @@
   <a href="https://github.com/u-Hoshi/">
     <img src="https://komarev.com/ghpvc/?username=u-Hoshi" alt="u-Hoshi" />
   </a>
-  <a href="http://twitter.com/CertainEngineer">
-    <img height="20" src="https://img.shields.io/twitter/follow/CertainEngineer?label=Twitter&logo=twitter&style=flat" />
+  <a href="http://twitter.com/u_Hoshi7">
+    <img height="20" src="https://img.shields.io/twitter/follow/u_Hoshi7?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="http://qiita.com/ToaruEngineer">
     <img height="20" src="https://qiita-badge.apiapi.app/s/ToaruEngineer/posts.svg" />
