@@ -45,6 +45,7 @@
 
 
 ## Recent posts
+- 10/24 [初めてのチームハッカソンを振り返って](https://portfolio-u-hoshi.vercel.app/blog/i6o8y6miy)
 - 10/17 [react-router-domのルーティングについて](https://qiita.com/ToaruEngineer/items/25fcaa8f38e099375886)
 - 10/10 [技育展を振り返って](https://portfolio-u-hoshi.vercel.app/blog/lr4ud5ejhv)
 - 10/3 [stateの管理をReactからReduxに書き換える](https://qiita.com/ToaruEngineer/items/80262c76fcc4367d5b41)
