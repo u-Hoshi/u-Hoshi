@@ -34,7 +34,7 @@
 
 
 
-|profile |   data  |   
+<!-- |profile |   data  |   
 |---:|-------------|
 | Age  |   21         |
 |Job|student / developer|
@@ -42,7 +42,24 @@
 | OS | mac / windows|      
 | Hobby |run / anime|   
 | Keybord |HHKB|  
-| Mic |SHURE MV7 |
+| Mic |SHURE MV7 | -->
+
+|プロフィール |   情報  |   
+|---:|-------------|
+| 年齢  |   21         |
+|職業|学生 / 開発者|
+| 住所  |千葉|  
+| 担当  |フロントエンド| 
+|  言語 |TS/Python|  
+| OS | mac / windows|      
+| 趣味 |ランニング / アニメ|   
+
+|機材 |   名前  |  
+|---:|-------------|
+| モニター |BenQ GW2780|  
+| キーボード |HHKB|  
+| マイク |SHURE MV7 |
+| カメラ |Anker PowerConf C300  |
 
 
 
