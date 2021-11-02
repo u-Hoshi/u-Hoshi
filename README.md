@@ -23,7 +23,7 @@
 
 
 ## 最近の投稿
-- 2021/10/31 [初めてLTに登壇しました。](https://portfolio-u-hoshi.vercel.app/blog/d0pe78x3o)
+<!-- - 2021/10/31 [初めてLTに登壇しました。](https://portfolio-u-hoshi.vercel.app/blog/d0pe78x3o) -->
 - 2021/10/24 [初めてのチームハッカソンを振り返って](https://portfolio-u-hoshi.vercel.app/blog/i6o8y6miy)
 - 2021/10/17 [react-router-domのルーティングについて](https://qiita.com/ToaruEngineer/items/25fcaa8f38e099375886)
 - 2021/10/10 [技育展を振り返って](https://portfolio-u-hoshi.vercel.app/blog/lr4ud5ejhv)
