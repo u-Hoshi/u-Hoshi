@@ -15,6 +15,7 @@
 </p>
 
 ## イベント
+- 2022/1 【LT会登壇予定】[エンジニア 新年の抱負 超LT会](https://rakus.connpass.com/event/231350/)
 - 2021/10 【LT会登壇】[エンジニア達の「〇〇完全に理解した」Talk#22](https://easy2.connpass.com/event/226964/) ([スライド](https://speakerdeck.com/u_hoshi/chu-metequ-wei-detimukai-fa-sitewakatutakoto))([発表動画](https://youtu.be/fRVy0AQZTVc?t=879))
 
 - 2021/10 【ハッカソン参加】[【オンライン開発合宿】オンラインのチーム開発を促進するアプリケーション](https://talent.supporterz.jp/events/c69cd6bd-bb32-4c29-9fca-9b6e09f15ebb/?utm_source=next&utm_medium=geekcamp) ([スライド](https://speakerdeck.com/u_hoshi/rebiyuwaapuri))
