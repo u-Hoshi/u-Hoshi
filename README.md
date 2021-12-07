@@ -35,7 +35,8 @@
 
 
 
-<!-- |profile |   data  |   
+<!-- |profile |   data  |
+   
 |---:|-------------|
 | Age  |   21         |
 |Job|student / developer|
@@ -45,7 +46,7 @@
 | Keybord |HHKB|  
 | Mic |SHURE MV7 | -->
 
-|プロフィール |   情報  |   
+<!-- |プロフィール |   情報  |   
 |---:|-------------|
 | 年齢  |   21         |
 |職業|学生 / 開発者|
@@ -60,7 +61,7 @@
 | モニター |BenQ GW2780|  
 | キーボード |HHKB|  
 | マイク |SHURE MV7 |
-| カメラ |Anker PowerConf C300  |
+| カメラ |Anker PowerConf C300  | -->
 
 
 
