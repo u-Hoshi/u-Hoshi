@@ -25,6 +25,7 @@
 
 ## 最近の投稿
 <!-- - 2021/10/31 [初めてLTに登壇しました。](https://portfolio-u-hoshi.vercel.app/blog/d0pe78x3o) -->
+- 2021/12 [[React]React.memoを使用して不要な再レンダリングを防ぐ](https://qiita.com/ToaruEngineer/items/065db216b8ca19026dfe)
 - 2021/12 [[TypeScript] プロパティ名を型として扱う](https://qiita.com/ToaruEngineer/items/d9f5716c1a8adaf49609)
 - 2021/12 [Ant Design完全に理解した](https://qiita.com/advent-calendar/2021/easyeasy)
 - 2021/10 [初めてのチームハッカソンを振り返って](https://portfolio-u-hoshi.vercel.app/blog/i6o8y6miy)
