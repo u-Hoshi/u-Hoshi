@@ -14,17 +14,17 @@
   </a>
 </p>
 
-## イベント
+<!-- ## イベント
 - 2022/1 【LT会登壇】[エンジニア 新年の抱負 超LT会](https://rakus.connpass.com/event/231350/)([スライド](https://speakerdeck.com/u_hoshi/2022nian-falsemu-biao))
 - 2021/10 【LT会登壇】[エンジニア達の「〇〇完全に理解した」Talk#22](https://easy2.connpass.com/event/226964/) ([スライド](https://speakerdeck.com/u_hoshi/chu-metequ-wei-detimukai-fa-sitewakatutakoto))([発表動画](https://youtu.be/fRVy0AQZTVc?t=879))
 
 - 2021/10 【ハッカソン参加】[【オンライン開発合宿】オンラインのチーム開発を促進するアプリケーション](https://talent.supporterz.jp/events/c69cd6bd-bb32-4c29-9fca-9b6e09f15ebb/?utm_source=next&utm_medium=geekcamp) ([スライド](https://speakerdeck.com/u_hoshi/rebiyuwaapuri))
 
-- 2021/9 【ピッチコンテスト登壇】[技育展 2021](https://talent.supporterz.jp/geekten/2021/) ([スライド](https://speakerdeck.com/u_hoshi/2021-ji-yu-zhan-deng-tan-zi-liao))
+- 2021/9 【ピッチコンテスト登壇】[技育展 2021](https://talent.supporterz.jp/geekten/2021/) ([スライド](https://speakerdeck.com/u_hoshi/2021-ji-yu-zhan-deng-tan-zi-liao)) -->
 
 
-## 最近の投稿
-<!-- - 2021/10/31 [初めてLTに登壇しました。](https://portfolio-u-hoshi.vercel.app/blog/d0pe78x3o) -->
+<!-- ## 最近の投稿
+- 2021/10/31 [初めてLTに登壇しました。](https://portfolio-u-hoshi.vercel.app/blog/d0pe78x3o)
 - 2021/12 [2021年の振り返り](https://note.com/u_hoshi/n/n56e5674736d8)
 - 2021/12 [[React]React.memoを使用して不要な再レンダリングを防ぐ](https://qiita.com/ToaruEngineer/items/065db216b8ca19026dfe)
 - 2021/12 [[TypeScript] プロパティ名を型として扱う](https://qiita.com/ToaruEngineer/items/d9f5716c1a8adaf49609)
@@ -34,7 +34,7 @@
 - 2021/10 [技育展を振り返って](https://portfolio-u-hoshi.vercel.app/blog/lr4ud5ejhv)
 - 2021/10 [stateの管理をReactからReduxに書き換える](https://qiita.com/ToaruEngineer/items/80262c76fcc4367d5b41)
 - 2021/9 [FastAPIの環境構築](https://qiita.com/ToaruEngineer/items/cd59130df88ef24a3187)
-- 2021/9 [初の逆求人イベント](https://portfolio-u-hoshi.vercel.app/blog/qqnq6w9ta)
+- 2021/9 [初の逆求人イベント](https://portfolio-u-hoshi.vercel.app/blog/qqnq6w9ta) -->
 
 
 
